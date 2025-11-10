@@ -37,5 +37,8 @@ Su objetivo es ayudar a nuevos desarrolladores a documentar sus proyectos de man
 ```python
 print("¡Hola, mundo!")
 
+## 🔗 Enlace a mi perfil de GitHub
+[Visita mi perfil en GitHub](https://github.com/tu-usuario)
+
 ```bash
 git status
