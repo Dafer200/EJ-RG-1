@@ -18,7 +18,7 @@ Este es un ejemplo para colocar comandos en el README
 - Un emoji para decorar el texto.
 Esta parte explica brevemente de qué trata el proyecto -->
 
-## 🚀 Proyecto de Ejemplo
+## Proyecto de Ejemplo
 Este proyecto demuestra cómo crear un archivo **README.md** bien estructurado usando sintaxis Markdown.  
 Su objetivo es ayudar a nuevos desarrolladores a documentar sus proyectos de manera clara, ordenada y profesional.
 
@@ -32,13 +32,14 @@ Su objetivo es ayudar a nuevos desarrolladores a documentar sus proyectos de man
   4. Ejecuta la aplicación:
     python main.py
 
-## 💻 Ejemplo de código en Python
+## Ejemplo de código en Python
 
 ```python
 print("¡Hola, mundo!")
+```
 
-## 🔗 Enlace a mi perfil de GitHub
-[Visita mi perfil en GitHub](https://github.com/tu-usuario)
+## Enlace a mi perfil de GitHub
+[Visita mi perfil en GitHub](https://github.com/Dafer200/EJ-RG-1/blob/main/README.md))
 
 ```bash
 git status
