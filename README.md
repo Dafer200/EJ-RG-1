@@ -41,5 +41,9 @@ print("¡Hola, mundo!")
 ## Enlace a mi perfil de GitHub
 [Visita mi perfil en GitHub](https://github.com/Dafer200/EJ-RG-1/blob/main/README.md))
 
+
+## 🖼️ Logo del Proyecto
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 ```bash
 git status
