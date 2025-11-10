@@ -18,7 +18,7 @@ Este es un ejemplo para colocar comandos en el README
 - Un emoji para decorar el texto.
 Esta parte explica brevemente de qué trata el proyecto -->
 
-## Proyecto de Ejemplo
+## 🚀 Proyecto de Ejemplo
 Este proyecto demuestra cómo crear un archivo **README.md** bien estructurado usando sintaxis Markdown.  
 Su objetivo es ayudar a nuevos desarrolladores a documentar sus proyectos de manera clara, ordenada y profesional.
 
@@ -44,8 +44,6 @@ print("¡Hola, mundo!")
 
 ## 🖼️ Logo del Proyecto
 ![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
-##🎉
 
 ```bash
 git status
