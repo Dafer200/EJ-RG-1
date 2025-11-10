@@ -32,6 +32,10 @@ Su objetivo es ayudar a nuevos desarrolladores a documentar sus proyectos de man
   4. Ejecuta la aplicación:
     python main.py
 
+## 💻 Ejemplo de código en Python
+
+```python
+print("¡Hola, mundo!")
 
 ```bash
 git status
